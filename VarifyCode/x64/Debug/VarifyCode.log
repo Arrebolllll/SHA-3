@@ -1,4 +1,4 @@
 ﻿  VarifyCode.cpp
-F:\C++\VarifyCode\VarifyCode.cpp(93,27): warning C4244: “=”: 从“uint64_t”转换到“uint8_t”，可能丢失数据
-F:\C++\VarifyCode\VarifyCode.cpp(144,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\C++\VarifyCode\VarifyCode.cpp(104,27): warning C4244: “=”: 从“uint64_t”转换到“uint8_t”，可能丢失数据
+F:\C++\VarifyCode\VarifyCode.cpp(150,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   VarifyCode.vcxproj -> F:\C++\VarifyCode\x64\Debug\VarifyCode.exe
